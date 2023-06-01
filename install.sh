@@ -31,14 +31,14 @@ then
     abort "Bash is required to interpret this script."
 fi
 
-boilerplates="spring-boot-react-kts spring-boot-kts"
+boilerplates="spring-boot-api spring-boot-react-web"
 
 select boilerplate in $boilerplates ; do
-    if [ "$boilerplate" = "spring-boot-react-kts" ] ; then
-        installBoilerPlate "spring-boot-react-kts"
+    if [ "$boilerplate" = "spring-boot-api" ] ; then
+        installBoilerPlate "spring-boot-api"
         exit
-    elif [ "$boilerplate" = "spring-boot-kts" ] ; then
-        installBoilerPlate "spring-boot-kts"
+    elif [ "$boilerplate" = "spring-boot-react-web" ] ; then
+        installBoilerPlate "spring-boot-react-web"
         exit
     else
         abort "not supported"
