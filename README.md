@@ -40,7 +40,7 @@ Java + Spring Boot로 만들어진 Rest API 보일러 플레이트
 
 Java + Spring Boot와 React 결과물을 spring boot 서버로 서빙하도록 구성한 보일러 플레이트.
 
-- spring-batch
+- spring-boot-batch
 
 Java + Spring Boot로 만들어진 Batch 어플리케이션 보일러 플레이트.
 
