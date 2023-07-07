@@ -1,6 +1,5 @@
 package com.boilerplate.springbootapi.domain.user.repository.querydsl;
 
-import com.boilerplate.springbootapi.domain.user.domain.UserEntity;
 
 public interface UserRepositoryQueryDSL {
 

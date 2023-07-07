@@ -12,6 +12,7 @@
 ```
 1) spring-boot-api
 2) spring-boot-react-web
+3) spring-boot-batch
 #?
 ```
 
@@ -38,5 +39,9 @@ Java + Spring Boot로 만들어진 Rest API 보일러 플레이트
 - spring-boot-react-web
 
 Java + Spring Boot와 React 결과물을 spring boot 서버로 서빙하도록 구성한 보일러 플레이트.
+
+- spring-batch
+
+Java + Spring Boot로 만들어진 Batch 어플리케이션 보일러 플레이트.
 
 > Spring Boot로 SSR이 아닌 단순 결과물 HTML을 Spring Boot 서버로 내려줌. 때문에 React 페이지는 CSR로 동작함

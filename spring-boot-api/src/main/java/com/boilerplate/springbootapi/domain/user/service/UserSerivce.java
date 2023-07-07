@@ -1,6 +1,6 @@
 package com.boilerplate.springbootapi.domain.user.service;
 
-import com.boilerplate.springbootapi.domain.user.domain.UserEntity;
+import com.boilerplate.springbootapi.domain.user.entity.UserEntity;
 import com.boilerplate.springbootapi.domain.user.dto.UserDto;
 import com.boilerplate.springbootapi.domain.user.repository.UserRepository;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.boilerplate.springbootapi.domain.user.domain;
+package com.boilerplate.springbootapi.domain.user.entity;
 
 
 import jakarta.persistence.Column;

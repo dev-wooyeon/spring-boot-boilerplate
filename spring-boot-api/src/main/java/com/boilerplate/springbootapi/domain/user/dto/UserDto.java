@@ -1,7 +1,7 @@
 package com.boilerplate.springbootapi.domain.user.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.boilerplate.springbootapi.domain.user.domain.UserEntity;
+import com.boilerplate.springbootapi.domain.user.entity.UserEntity;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;

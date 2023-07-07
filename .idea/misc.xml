@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-api" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-batch" />
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-react-web" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
