@@ -31,7 +31,7 @@ then
     abort "Bash is required to interpret this script."
 fi
 
-boilerplates="spring-boot-api spring-boot-react-web"
+boilerplates="spring-boot-api spring-boot-react-web spring-boot-batch"
 
 select boilerplate in $boilerplates ; do
     if [ "$boilerplate" = "spring-boot-api" ] ; then
