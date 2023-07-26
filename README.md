@@ -18,18 +18,6 @@
 
 실행하면 위와 같이 어떤 보일러 플레이트를 가져올 지 선택할 수 있다. 선택하면 해당 보일러 플레이트가 받아진다.
 
-### 이름 변경하기
-
-어떠한 이름을 주지 않으면 기본적으로 각각의 보일러 플레이트 이름으로 받아진다.
-
-만약 이름을 바꾸고 싶다면 `install.sh` 실행시에 `-n` 옵션으로 이름을 줄 수 있다.
-
-```bash
- /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/ieunune/spring-boot-boilerplate/main/install.sh)" -n test
-```
-
-위와 같이 `-n` 옵션으로 `test`를 전달하면 선택한 보일러 플레이트가 `test`라는 이름으로 받아진다.
-
 ## description
 
 - spring-boot-api
