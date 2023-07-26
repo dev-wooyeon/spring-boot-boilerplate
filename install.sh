@@ -41,7 +41,7 @@ select boilerplate in $boilerplates ; do
         installBoilerPlate "spring-boot-react-web"
         exit
     elif [ "$boilerplate" = "spring-boot-batch" ] ; then
-        installBoilerPlate "spring-boot-batch
+        installBoilerPlate "spring-boot-batch"
         exit
     else
         abort "not supported"
